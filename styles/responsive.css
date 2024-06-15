@@ -14,7 +14,6 @@
 }
 
 @media screen and (max-width: 825px) {
-  /* Burger */
   .burger {
     display: block;
     cursor: pointer;
